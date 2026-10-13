@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:58:37.769Z",
+  "updatedAt": "2026-10-13T06:00:04.814Z",
   "problems": [
     {
       "frontendId": "5",
@@ -164,6 +164,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "ed2b2f2bf6eeffd1770b06a0b6308fba4a9cfa5d",
           "lastSyncedAt": "2026-10-13T05:55:37.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0402-remove-k-digits.cpp",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
+          "sha": "af2eac6ae24f243366780afb12333e7d757225a9",
+          "lastSyncedAt": "2026-10-13T06:00:04.814Z"
         }
       ]
     },
