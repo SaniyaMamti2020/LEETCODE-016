@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:09:27.661Z",
+  "updatedAt": "2026-10-13T06:09:48.855Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "problemName": "0188-best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "folderPath": "0188-best-time-to-buy-and-sell-stock-iv/",
+      "readmePath": "0188-best-time-to-buy-and-sell-stock-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0188-best-time-to-buy-and-sell-stock-iv.cpp",
+          "path": "0188-best-time-to-buy-and-sell-stock-iv/0188-best-time-to-buy-and-sell-stock-iv.cpp",
+          "sha": "05d8c50e57a0b2c261278d93a781bb67d074d459",
+          "lastSyncedAt": "2026-10-13T06:09:48.855Z"
         }
       ]
     },
