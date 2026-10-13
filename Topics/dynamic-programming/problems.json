@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:24:13.975Z",
+  "updatedAt": "2026-10-13T06:25:12.710Z",
   "problems": [
     {
       "frontendId": "5",
@@ -623,7 +623,7 @@
           "filename": "0313-super-ugly-number.cpp",
           "path": "0313-super-ugly-number/0313-super-ugly-number.cpp",
           "sha": "8671bf2ff7d5617e71bc69db58891639e8c8d9f5",
-          "lastSyncedAt": "2026-10-13T06:07:09.529Z"
+          "lastSyncedAt": "2026-10-13T06:25:12.710Z"
         }
       ]
     },
