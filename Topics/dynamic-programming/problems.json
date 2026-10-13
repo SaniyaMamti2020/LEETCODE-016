@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:28:31.167Z",
+  "updatedAt": "2026-10-13T06:28:38.779Z",
   "problems": [
     {
       "frontendId": "5",
@@ -183,7 +183,7 @@
           "filename": "0120-triangle.cpp",
           "path": "0120-triangle/0120-triangle.cpp",
           "sha": "eb3f7e8587ce9d62868bbde64b2751a9fbf03ae1",
-          "lastSyncedAt": "2026-10-13T06:12:15.502Z"
+          "lastSyncedAt": "2026-10-13T06:28:38.779Z"
         }
       ]
     },
