@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:00:45.415Z",
+  "updatedAt": "2026-10-13T06:00:54.376Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0338-counting-bits/0338-counting-bits.py",
           "sha": "e2fab6c318c85aeb996ab9ae60ca7ecf905ef4db",
           "lastSyncedAt": "2026-10-13T05:55:48.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "376",
+      "title": "Wiggle Subsequence",
+      "slug": "wiggle-subsequence",
+      "problemName": "0376-wiggle-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/wiggle-subsequence/",
+      "folderPath": "0376-wiggle-subsequence/",
+      "readmePath": "0376-wiggle-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0376-wiggle-subsequence.cpp",
+          "path": "0376-wiggle-subsequence/0376-wiggle-subsequence.cpp",
+          "sha": "f16b3d7bce330dda7f6b5de7ee48ba3f6a49ede5",
+          "lastSyncedAt": "2026-10-13T06:00:54.376Z"
         }
       ]
     },
