@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-13T05:50:09.583Z",
+  "updatedAt": "2026-10-13T05:59:52.726Z",
   "problems": [
+    {
+      "frontendId": "413",
+      "title": "Arithmetic Slices",
+      "slug": "arithmetic-slices",
+      "problemName": "0413-arithmetic-slices",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices/",
+      "folderPath": "0413-arithmetic-slices/",
+      "readmePath": "0413-arithmetic-slices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0413-arithmetic-slices.cpp",
+          "path": "0413-arithmetic-slices/0413-arithmetic-slices.cpp",
+          "sha": "789219db3f2383e73675b8ef70700a0a414e3926",
+          "lastSyncedAt": "2026-10-13T05:59:52.726Z"
+        }
+      ]
+    },
     {
       "frontendId": "1763",
       "title": "Longest Nice Substring",
