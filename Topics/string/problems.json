@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:56:31.103Z",
+  "updatedAt": "2026-10-13T05:56:37.368Z",
   "problems": [
     {
       "frontendId": "58",
@@ -24,6 +24,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
           "sha": "6c2786dfd804b14b1887587e558282aa5e1fb796",
           "lastSyncedAt": "2026-10-13T05:56:31.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "47430bead1f5c8a48168a8a44739897ee667579a",
+          "lastSyncedAt": "2026-10-13T05:56:37.368Z"
         }
       ]
     },
