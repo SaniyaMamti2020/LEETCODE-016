@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:55:37.638Z",
+  "updatedAt": "2026-10-13T05:56:22.802Z",
   "problems": [
     {
       "frontendId": "392",
@@ -144,6 +144,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "af651c158ecc463913dc01c5f19e9a9bd6a9f048",
           "lastSyncedAt": "2026-10-13T05:50:09.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1768-merge-strings-alternately.cpp",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.cpp",
+          "sha": "a1719f7a353661a48d7f7779f3ea200816ea47ff",
+          "lastSyncedAt": "2026-10-13T05:56:22.802Z"
         }
       ]
     }
