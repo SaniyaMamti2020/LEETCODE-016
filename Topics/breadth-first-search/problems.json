@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T06:07:51.056Z",
+  "updatedAt": "2026-10-13T06:22:41.151Z",
   "problems": [
     {
       "frontendId": "279",
@@ -43,7 +43,7 @@
           "filename": "0322-coin-change.cpp",
           "path": "0322-coin-change/0322-coin-change.cpp",
           "sha": "226340f9317d6fc425f459ba9a8721c5ab194b8d",
-          "lastSyncedAt": "2026-10-13T06:02:12.251Z"
+          "lastSyncedAt": "2026-10-13T06:22:41.151Z"
         }
       ]
     },
