@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:10:37.507Z",
+  "updatedAt": "2026-10-13T06:11:20.092Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "132",
+      "title": "Palindrome Partitioning II",
+      "slug": "palindrome-partitioning-ii",
+      "problemName": "0132-palindrome-partitioning-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "folderPath": "0132-palindrome-partitioning-ii/",
+      "readmePath": "0132-palindrome-partitioning-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0132-palindrome-partitioning-ii.cpp",
+          "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.cpp",
+          "sha": "3d51417435998ed39caa27c5f50af86fe3019790",
+          "lastSyncedAt": "2026-10-13T06:11:20.092Z"
         }
       ]
     },
