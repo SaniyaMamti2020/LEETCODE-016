@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:59:23.744Z",
+  "updatedAt": "2026-10-13T05:59:35.534Z",
   "problems": [
     {
       "frontendId": "4",
@@ -164,6 +164,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "41e90dbea0bd909f792a1008d111fa881a77912e",
           "lastSyncedAt": "2026-10-13T05:58:52.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0416-partition-equal-subset-sum.cpp",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp",
+          "sha": "b6edd69b71313f4120d7d6ad872c33abc23bb6ea",
+          "lastSyncedAt": "2026-10-13T05:59:35.534Z"
         }
       ]
     },
