@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:12:15.502Z",
+  "updatedAt": "2026-10-13T06:12:23.496Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "25a87d4f3d214492bd95ca06641de343dd9b2657",
           "lastSyncedAt": "2026-10-13T05:56:12.877Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "0115-distinct-subsequences/",
+      "readmePath": "0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0115-distinct-subsequences.cpp",
+          "path": "0115-distinct-subsequences/0115-distinct-subsequences.cpp",
+          "sha": "75024b95df2f8d095ff57ce19db5c636fe1e9257",
+          "lastSyncedAt": "2026-10-13T06:12:23.496Z"
         }
       ]
     },
