@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:09:48.855Z",
+  "updatedAt": "2026-10-13T06:09:58.275Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "174",
+      "title": "Dungeon Game",
+      "slug": "dungeon-game",
+      "problemName": "0174-dungeon-game",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/dungeon-game/",
+      "folderPath": "0174-dungeon-game/",
+      "readmePath": "0174-dungeon-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0174-dungeon-game.cpp",
+          "path": "0174-dungeon-game/0174-dungeon-game.cpp",
+          "sha": "6de0d430a5ab0e2f447c131910b13100609e376a",
+          "lastSyncedAt": "2026-10-13T06:09:58.275Z"
         }
       ]
     },
