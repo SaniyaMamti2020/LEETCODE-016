@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:01:04.622Z",
+  "updatedAt": "2026-10-13T06:03:34.736Z",
   "problems": [
     {
       "frontendId": "148",
@@ -84,6 +84,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "41e90dbea0bd909f792a1008d111fa881a77912e",
           "lastSyncedAt": "2026-10-13T05:58:52.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "354",
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "problemName": "0354-russian-doll-envelopes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+      "folderPath": "0354-russian-doll-envelopes/",
+      "readmePath": "0354-russian-doll-envelopes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0354-russian-doll-envelopes.cpp",
+          "path": "0354-russian-doll-envelopes/0354-russian-doll-envelopes.cpp",
+          "sha": "db5ea80568003b3f5612373e0435557741067753",
+          "lastSyncedAt": "2026-10-13T06:03:34.736Z"
         }
       ]
     },
