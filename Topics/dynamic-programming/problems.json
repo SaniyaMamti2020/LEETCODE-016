@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:04:10.475Z",
+  "updatedAt": "2026-10-13T06:07:09.529Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "313",
+      "title": "Super Ugly Number",
+      "slug": "super-ugly-number",
+      "problemName": "0313-super-ugly-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/super-ugly-number/",
+      "folderPath": "0313-super-ugly-number/",
+      "readmePath": "0313-super-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0313-super-ugly-number.cpp",
+          "path": "0313-super-ugly-number/0313-super-ugly-number.cpp",
+          "sha": "8671bf2ff7d5617e71bc69db58891639e8c8d9f5",
+          "lastSyncedAt": "2026-10-13T06:07:09.529Z"
         }
       ]
     },
