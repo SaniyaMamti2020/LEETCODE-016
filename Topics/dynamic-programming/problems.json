@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:00:22.740Z",
+  "updatedAt": "2026-10-13T06:00:35.307Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "ed2b2f2bf6eeffd1770b06a0b6308fba4a9cfa5d",
           "lastSyncedAt": "2026-10-13T05:55:37.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "0396-rotate-function/",
+      "readmePath": "0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0396-rotate-function.cpp",
+          "path": "0396-rotate-function/0396-rotate-function.cpp",
+          "sha": "ff432c792604735c520722b310059ab38387e57d",
+          "lastSyncedAt": "2026-10-13T06:00:35.307Z"
         }
       ]
     },
