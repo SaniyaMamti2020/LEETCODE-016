@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:02:12.251Z",
+  "updatedAt": "2026-10-13T06:02:48.848Z",
   "problems": [
     {
       "frontendId": "4",
@@ -344,6 +344,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.cpp",
           "sha": "9cf585c7110371fa6c1b6776d7578c0720546352",
           "lastSyncedAt": "2026-10-13T05:59:23.744Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "446",
+      "title": "Arithmetic Slices II - Subsequence",
+      "slug": "arithmetic-slices-ii-subsequence",
+      "problemName": "0446-arithmetic-slices-ii-subsequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence/",
+      "folderPath": "0446-arithmetic-slices-ii-subsequence/",
+      "readmePath": "0446-arithmetic-slices-ii-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0446-arithmetic-slices-ii-subsequence.cpp",
+          "path": "0446-arithmetic-slices-ii-subsequence/0446-arithmetic-slices-ii-subsequence.cpp",
+          "sha": "df09240c742fa6f075f9271d02eeab27a74eb72f",
+          "lastSyncedAt": "2026-10-13T06:02:48.848Z"
         }
       ]
     },
