@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:50:09.583Z",
+  "updatedAt": "2026-10-13T05:50:41.396Z",
   "problems": [
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0190-reverse-bits.py",
+          "path": "0190-reverse-bits/0190-reverse-bits.py",
+          "sha": "287e4af2c46a63971b01c165461072611ec593ca",
+          "lastSyncedAt": "2026-10-13T05:50:41.396Z"
+        }
+      ]
+    },
     {
       "frontendId": "1763",
       "title": "Longest Nice Substring",
