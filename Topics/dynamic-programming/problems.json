@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:01:18.757Z",
+  "updatedAt": "2026-10-13T06:01:30.836Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0338-counting-bits/0338-counting-bits.py",
           "sha": "e2fab6c318c85aeb996ab9ae60ca7ecf905ef4db",
           "lastSyncedAt": "2026-10-13T05:55:48.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "343",
+      "title": "Integer Break",
+      "slug": "integer-break",
+      "problemName": "0343-integer-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-break/",
+      "folderPath": "0343-integer-break/",
+      "readmePath": "0343-integer-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0343-integer-break.cpp",
+          "path": "0343-integer-break/0343-integer-break.cpp",
+          "sha": "cb251aaa827335d559741bd7c3b59b27bd4bc3c3",
+          "lastSyncedAt": "2026-10-13T06:01:30.836Z"
         }
       ]
     },
