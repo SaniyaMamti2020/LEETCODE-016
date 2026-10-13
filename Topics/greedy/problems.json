@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:59:23.744Z",
+  "updatedAt": "2026-10-13T06:00:04.814Z",
   "problems": [
+    {
+      "frontendId": "402",
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "problemName": "0402-remove-k-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-k-digits/",
+      "folderPath": "0402-remove-k-digits/",
+      "readmePath": "0402-remove-k-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0402-remove-k-digits.cpp",
+          "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
+          "sha": "af2eac6ae24f243366780afb12333e7d757225a9",
+          "lastSyncedAt": "2026-10-13T06:00:04.814Z"
+        }
+      ]
+    },
     {
       "frontendId": "409",
       "title": "Longest Palindrome",
