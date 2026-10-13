@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-13T06:01:18.757Z",
+  "problems": [
+    {
+      "frontendId": "357",
+      "title": "Count Numbers with Unique Digits",
+      "slug": "count-numbers-with-unique-digits",
+      "problemName": "0357-count-numbers-with-unique-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-numbers-with-unique-digits/",
+      "folderPath": "0357-count-numbers-with-unique-digits/",
+      "readmePath": "0357-count-numbers-with-unique-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0357-count-numbers-with-unique-digits.cpp",
+          "path": "0357-count-numbers-with-unique-digits/0357-count-numbers-with-unique-digits.cpp",
+          "sha": "9dbf296b550386be281c13d17602b60ab602bbbd",
+          "lastSyncedAt": "2026-10-13T06:01:18.757Z"
+        }
+      ]
+    }
+  ]
+}
