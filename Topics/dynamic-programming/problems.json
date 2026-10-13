@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:20:58.470Z",
+  "updatedAt": "2026-10-13T06:21:08.118Z",
   "problems": [
     {
       "frontendId": "5",
@@ -963,7 +963,7 @@
           "filename": "0416-partition-equal-subset-sum.cpp",
           "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp",
           "sha": "b6edd69b71313f4120d7d6ad872c33abc23bb6ea",
-          "lastSyncedAt": "2026-10-13T05:59:35.534Z"
+          "lastSyncedAt": "2026-10-13T06:21:08.118Z"
         }
       ]
     },
