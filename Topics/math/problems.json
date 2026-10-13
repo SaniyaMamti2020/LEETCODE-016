@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:01:30.836Z",
+  "updatedAt": "2026-10-13T06:02:35.002Z",
   "problems": [
     {
       "frontendId": "70",
@@ -124,6 +124,26 @@
           "path": "0396-rotate-function/0396-rotate-function.cpp",
           "sha": "ff432c792604735c520722b310059ab38387e57d",
           "lastSyncedAt": "2026-10-13T06:00:35.307Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "458",
+      "title": "Poor Pigs",
+      "slug": "poor-pigs",
+      "problemName": "0458-poor-pigs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/poor-pigs/",
+      "folderPath": "0458-poor-pigs/",
+      "readmePath": "0458-poor-pigs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0458-poor-pigs.cpp",
+          "path": "0458-poor-pigs/0458-poor-pigs.cpp",
+          "sha": "145092e973fd63f393976a9c11be83fee2887adc",
+          "lastSyncedAt": "2026-10-13T06:02:35.002Z"
         }
       ]
     },
