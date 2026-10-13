@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:55:37.638Z",
+  "updatedAt": "2026-10-13T05:56:22.802Z",
   "problems": [
     {
       "frontendId": "148",
@@ -104,6 +104,26 @@
           "path": "0942-di-string-match/0942-di-string-match.py",
           "sha": "35a8dddef2945a90bbb6ab7c6372214f0123ad14",
           "lastSyncedAt": "2026-10-13T05:52:53.188Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1768-merge-strings-alternately.cpp",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.cpp",
+          "sha": "a1719f7a353661a48d7f7779f3ea200816ea47ff",
+          "lastSyncedAt": "2026-10-13T05:56:22.802Z"
         }
       ]
     }
