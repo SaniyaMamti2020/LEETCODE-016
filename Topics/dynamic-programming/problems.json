@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:08:45.990Z",
+  "updatedAt": "2026-10-13T06:09:19.268Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "problemName": "0213-house-robber-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+      "folderPath": "0213-house-robber-ii/",
+      "readmePath": "0213-house-robber-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0213-house-robber-ii.cpp",
+          "path": "0213-house-robber-ii/0213-house-robber-ii.cpp",
+          "sha": "38686e32531466c4e2403fe93c5efb8573a8a301",
+          "lastSyncedAt": "2026-10-13T06:09:19.268Z"
         }
       ]
     },
