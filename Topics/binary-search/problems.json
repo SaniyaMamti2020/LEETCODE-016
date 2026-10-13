@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T06:03:34.736Z",
+  "updatedAt": "2026-10-13T06:04:40.689Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "93a0d0dfa903b43c8867ad78cda835b240092aa5",
           "lastSyncedAt": "2026-10-13T05:58:25.283Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "327",
+      "title": "Count of Range Sum",
+      "slug": "count-of-range-sum",
+      "problemName": "0327-count-of-range-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-range-sum/",
+      "folderPath": "0327-count-of-range-sum/",
+      "readmePath": "0327-count-of-range-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0327-count-of-range-sum.cpp",
+          "path": "0327-count-of-range-sum/0327-count-of-range-sum.cpp",
+          "sha": "96bfed321ee0b422e8bff4f6914cf50e93cc7615",
+          "lastSyncedAt": "2026-10-13T06:04:40.689Z"
         }
       ]
     },
