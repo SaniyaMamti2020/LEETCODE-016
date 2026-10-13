@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:00:54.376Z",
+  "updatedAt": "2026-10-13T06:01:04.622Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0338-counting-bits/0338-counting-bits.py",
           "sha": "e2fab6c318c85aeb996ab9ae60ca7ecf905ef4db",
           "lastSyncedAt": "2026-10-13T05:55:48.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "problemName": "0368-largest-divisible-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+      "folderPath": "0368-largest-divisible-subset/",
+      "readmePath": "0368-largest-divisible-subset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0368-largest-divisible-subset.cpp",
+          "path": "0368-largest-divisible-subset/0368-largest-divisible-subset.cpp",
+          "sha": "7337c0eb8abc90f022092879ad1f497c0904e083",
+          "lastSyncedAt": "2026-10-13T06:01:04.622Z"
         }
       ]
     },
