@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:20:51.928Z",
+  "updatedAt": "2026-10-13T06:20:58.470Z",
   "problems": [
     {
       "frontendId": "4",
@@ -883,7 +883,7 @@
           "filename": "0435-non-overlapping-intervals.cpp",
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.cpp",
           "sha": "9cf585c7110371fa6c1b6776d7578c0720546352",
-          "lastSyncedAt": "2026-10-13T05:59:23.744Z"
+          "lastSyncedAt": "2026-10-13T06:20:58.470Z"
         }
       ]
     },
