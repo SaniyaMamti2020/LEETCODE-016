@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:58:52.227Z",
+  "updatedAt": "2026-10-13T06:03:56.871Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "aea3abbb0274ba5b04e8cba9e06506605c948df6",
           "lastSyncedAt": "2026-10-13T05:57:35.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "321",
+      "title": "Create Maximum Number",
+      "slug": "create-maximum-number",
+      "problemName": "0321-create-maximum-number",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/create-maximum-number/",
+      "folderPath": "0321-create-maximum-number/",
+      "readmePath": "0321-create-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0321-create-maximum-number.cpp",
+          "path": "0321-create-maximum-number/0321-create-maximum-number.cpp",
+          "sha": "7707ff37050bc885da24d36d109bf1c4aeac4bc8",
+          "lastSyncedAt": "2026-10-13T06:03:56.871Z"
         }
       ]
     },
