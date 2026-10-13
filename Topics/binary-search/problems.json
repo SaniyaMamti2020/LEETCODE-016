@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T06:06:47.917Z",
+  "updatedAt": "2026-10-13T06:07:37.914Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "93a0d0dfa903b43c8867ad78cda835b240092aa5",
           "lastSyncedAt": "2026-10-13T05:58:25.283Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0300-longest-increasing-subsequence.cpp",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
+          "sha": "0b78c54761e598a95c26b84106fe7447cd58e85d",
+          "lastSyncedAt": "2026-10-13T06:07:37.914Z"
         }
       ]
     },
