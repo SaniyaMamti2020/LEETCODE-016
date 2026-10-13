@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:53:58.107Z",
+  "updatedAt": "2026-10-13T05:59:13.309Z",
   "problems": [
     {
       "frontendId": "409",
@@ -24,6 +24,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
           "lastSyncedAt": "2026-10-13T05:53:58.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "problemName": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+      "folderPath": "0452-minimum-number-of-arrows-to-burst-balloons/",
+      "readmePath": "0452-minimum-number-of-arrows-to-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0452-minimum-number-of-arrows-to-burst-balloons.cpp",
+          "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.cpp",
+          "sha": "28e298cd9067c073db883fa6299e46d42d876d48",
+          "lastSyncedAt": "2026-10-13T05:59:13.309Z"
         }
       ]
     },
