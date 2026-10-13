@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-10-13T05:55:23.723Z",
+  "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "63e907cdfe0eba27f746e47801a860310bca44ae",
+          "lastSyncedAt": "2026-10-13T05:55:23.723Z"
+        }
+      ]
+    }
+  ]
+}
