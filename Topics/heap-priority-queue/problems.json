@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-10-13T06:02:56.853Z",
+  "problems": [
+    {
+      "frontendId": "420",
+      "title": "Strong Password Checker",
+      "slug": "strong-password-checker",
+      "problemName": "0420-strong-password-checker",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/strong-password-checker/",
+      "folderPath": "0420-strong-password-checker/",
+      "readmePath": "0420-strong-password-checker/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0420-strong-password-checker.cpp",
+          "path": "0420-strong-password-checker/0420-strong-password-checker.cpp",
+          "sha": "018f083ac11fef855d963e75eaeb3a37b7a1e681",
+          "lastSyncedAt": "2026-10-13T06:02:56.853Z"
+        }
+      ]
+    }
+  ]
+}
