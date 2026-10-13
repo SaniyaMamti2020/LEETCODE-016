@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:59:13.309Z",
+  "updatedAt": "2026-10-13T05:59:23.744Z",
   "problems": [
     {
       "frontendId": "409",
@@ -24,6 +24,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
           "lastSyncedAt": "2026-10-13T05:53:58.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0435-non-overlapping-intervals.cpp",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.cpp",
+          "sha": "9cf585c7110371fa6c1b6776d7578c0720546352",
+          "lastSyncedAt": "2026-10-13T05:59:23.744Z"
         }
       ]
     },
