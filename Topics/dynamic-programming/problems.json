@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:02:12.251Z",
+  "updatedAt": "2026-10-13T06:02:35.002Z",
   "problems": [
     {
       "frontendId": "5",
@@ -364,6 +364,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.cpp",
           "sha": "9cf585c7110371fa6c1b6776d7578c0720546352",
           "lastSyncedAt": "2026-10-13T05:59:23.744Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "458",
+      "title": "Poor Pigs",
+      "slug": "poor-pigs",
+      "problemName": "0458-poor-pigs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/poor-pigs/",
+      "folderPath": "0458-poor-pigs/",
+      "readmePath": "0458-poor-pigs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0458-poor-pigs.cpp",
+          "path": "0458-poor-pigs/0458-poor-pigs.cpp",
+          "sha": "145092e973fd63f393976a9c11be83fee2887adc",
+          "lastSyncedAt": "2026-10-13T06:02:35.002Z"
         }
       ]
     },
