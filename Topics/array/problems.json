@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:23:30.418Z",
+  "updatedAt": "2026-10-13T06:23:41.493Z",
   "problems": [
     {
       "frontendId": "4",
@@ -803,7 +803,7 @@
           "filename": "0403-frog-jump.cpp",
           "path": "0403-frog-jump/0403-frog-jump.cpp",
           "sha": "e880c625254fbabbe165a2e2dd7b5ea5399fded6",
-          "lastSyncedAt": "2026-10-13T06:03:25.126Z"
+          "lastSyncedAt": "2026-10-13T06:23:41.493Z"
         }
       ]
     },
