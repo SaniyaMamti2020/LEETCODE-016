@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-13T05:57:24.550Z",
+  "problems": [
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2149-rearrange-array-elements-by-sign.cpp",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
+          "sha": "3a4d09406013fd65d5279cfd81adfbb1775573ac",
+          "lastSyncedAt": "2026-10-13T05:57:24.550Z"
+        }
+      ]
+    }
+  ]
+}
