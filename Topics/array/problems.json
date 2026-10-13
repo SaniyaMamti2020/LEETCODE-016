@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:09:58.275Z",
+  "updatedAt": "2026-10-13T06:10:09.148Z",
   "problems": [
     {
       "frontendId": "4",
@@ -104,6 +104,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "0152-maximum-product-subarray/",
+      "readmePath": "0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0152-maximum-product-subarray.cpp",
+          "path": "0152-maximum-product-subarray/0152-maximum-product-subarray.cpp",
+          "sha": "0036c42766ea4a5c0009df48b739be913da40699",
+          "lastSyncedAt": "2026-10-13T06:10:09.148Z"
         }
       ]
     },
