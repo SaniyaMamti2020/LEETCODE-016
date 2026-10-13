@@ -5,8 +5,28 @@
     "name": "Knapsack Problem",
     "tagId": "74909"
   },
-  "updatedAt": "2026-10-13T06:02:12.251Z",
+  "updatedAt": "2026-10-13T06:07:51.056Z",
   "problems": [
+    {
+      "frontendId": "279",
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "problemName": "0279-perfect-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-squares/",
+      "folderPath": "0279-perfect-squares/",
+      "readmePath": "0279-perfect-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0279-perfect-squares.cpp",
+          "path": "0279-perfect-squares/0279-perfect-squares.cpp",
+          "sha": "8dd09cd09ac2393fa6e1f75c9ddf8a54e851107b",
+          "lastSyncedAt": "2026-10-13T06:07:51.056Z"
+        }
+      ]
+    },
     {
       "frontendId": "322",
       "title": "Coin Change",
