@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:24:32.666Z",
+  "updatedAt": "2026-10-13T06:24:57.310Z",
   "problems": [
     {
       "frontendId": "4",
@@ -543,7 +543,7 @@
           "filename": "0315-count-of-smaller-numbers-after-self.cpp",
           "path": "0315-count-of-smaller-numbers-after-self/0315-count-of-smaller-numbers-after-self.cpp",
           "sha": "cc0bb83784ceaa9ceaec88fa07e812a5925cc75d",
-          "lastSyncedAt": "2026-10-13T06:06:47.917Z"
+          "lastSyncedAt": "2026-10-13T06:24:57.310Z"
         }
       ]
     },
