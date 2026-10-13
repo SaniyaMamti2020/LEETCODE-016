@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T06:02:56.853Z",
+  "updatedAt": "2026-10-13T06:08:05.748Z",
   "problems": [
+    {
+      "frontendId": "264",
+      "title": "Ugly Number II",
+      "slug": "ugly-number-ii",
+      "problemName": "0264-ugly-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii/",
+      "folderPath": "0264-ugly-number-ii/",
+      "readmePath": "0264-ugly-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0264-ugly-number-ii.cpp",
+          "path": "0264-ugly-number-ii/0264-ugly-number-ii.cpp",
+          "sha": "6149f347f852fe1181e11cc8d54b1c8d56783651",
+          "lastSyncedAt": "2026-10-13T06:08:05.748Z"
+        }
+      ]
+    },
     {
       "frontendId": "420",
       "title": "Strong Password Checker",
