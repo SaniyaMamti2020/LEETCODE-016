@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-13T06:22:33.250Z",
+  "updatedAt": "2026-10-13T06:23:47.304Z",
   "problems": [
     {
       "frontendId": "300",
@@ -63,7 +63,7 @@
           "filename": "0354-russian-doll-envelopes.cpp",
           "path": "0354-russian-doll-envelopes/0354-russian-doll-envelopes.cpp",
           "sha": "db5ea80568003b3f5612373e0435557741067753",
-          "lastSyncedAt": "2026-10-13T06:03:34.736Z"
+          "lastSyncedAt": "2026-10-13T06:23:47.304Z"
         }
       ]
     }
