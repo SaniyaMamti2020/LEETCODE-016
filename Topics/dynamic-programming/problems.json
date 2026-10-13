@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:12:05.267Z",
+  "updatedAt": "2026-10-13T06:12:15.502Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "006ef97ab884f9e69f318195aa9b2cf061896048",
           "lastSyncedAt": "2026-10-13T05:56:04.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "problemName": "0120-triangle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+      "folderPath": "0120-triangle/",
+      "readmePath": "0120-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0120-triangle.cpp",
+          "path": "0120-triangle/0120-triangle.cpp",
+          "sha": "eb3f7e8587ce9d62868bbde64b2751a9fbf03ae1",
+          "lastSyncedAt": "2026-10-13T06:12:15.502Z"
         }
       ]
     },
