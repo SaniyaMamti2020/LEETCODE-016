@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:22:33.250Z",
+  "updatedAt": "2026-10-13T06:23:23.815Z",
   "problems": [
     {
       "frontendId": "122",
@@ -283,7 +283,7 @@
           "filename": "0420-strong-password-checker.cpp",
           "path": "0420-strong-password-checker/0420-strong-password-checker.cpp",
           "sha": "018f083ac11fef855d963e75eaeb3a37b7a1e681",
-          "lastSyncedAt": "2026-10-13T06:02:56.853Z"
+          "lastSyncedAt": "2026-10-13T06:23:23.815Z"
         }
       ]
     },
