@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:52:42.325Z",
+  "updatedAt": "2026-10-13T05:52:53.188Z",
   "problems": [
+    {
+      "frontendId": "942",
+      "title": "DI String Match",
+      "slug": "di-string-match",
+      "problemName": "0942-di-string-match",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/di-string-match/",
+      "folderPath": "0942-di-string-match/",
+      "readmePath": "0942-di-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0942-di-string-match.py",
+          "path": "0942-di-string-match/0942-di-string-match.py",
+          "sha": "35a8dddef2945a90bbb6ab7c6372214f0123ad14",
+          "lastSyncedAt": "2026-10-13T05:52:53.188Z"
+        }
+      ]
+    },
     {
       "frontendId": "1221",
       "title": "Split a String in Balanced Strings",
