@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:50:09.583Z",
+  "updatedAt": "2026-10-13T05:50:41.396Z",
   "problems": [
     {
       "frontendId": "148",
@@ -24,6 +24,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "b11b184d4416c48518c5ae583ad586ef92116092",
           "lastSyncedAt": "2026-10-13T05:49:07.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0190-reverse-bits.py",
+          "path": "0190-reverse-bits/0190-reverse-bits.py",
+          "sha": "287e4af2c46a63971b01c165461072611ec593ca",
+          "lastSyncedAt": "2026-10-13T05:50:41.396Z"
         }
       ]
     },
