@@ -5,8 +5,28 @@
     "name": "Ordered Set",
     "tagId": "61070"
   },
-  "updatedAt": "2026-10-13T06:06:47.917Z",
+  "updatedAt": "2026-10-13T06:08:56.593Z",
   "problems": [
+    {
+      "frontendId": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "problemName": "0218-the-skyline-problem",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+      "folderPath": "0218-the-skyline-problem/",
+      "readmePath": "0218-the-skyline-problem/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0218-the-skyline-problem.cpp",
+          "path": "0218-the-skyline-problem/0218-the-skyline-problem.cpp",
+          "sha": "82073b570d3e14d2abb9d4dd24e1e68dd9de5221",
+          "lastSyncedAt": "2026-10-13T06:08:56.593Z"
+        }
+      ]
+    },
     {
       "frontendId": "315",
       "title": "Count of Smaller Numbers After Self",
