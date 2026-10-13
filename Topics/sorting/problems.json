@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:16:48.685Z",
+  "updatedAt": "2026-10-13T06:18:34.718Z",
   "problems": [
     {
       "frontendId": "148",
@@ -103,7 +103,7 @@
           "filename": "0242-valid-anagram.cpp",
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "47430bead1f5c8a48168a8a44739897ee667579a",
-          "lastSyncedAt": "2026-10-13T05:56:37.368Z"
+          "lastSyncedAt": "2026-10-13T06:18:34.718Z"
         }
       ]
     },
