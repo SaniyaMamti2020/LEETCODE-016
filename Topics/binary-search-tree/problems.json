@@ -5,8 +5,28 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-10-13T06:12:41.300Z",
+  "updatedAt": "2026-10-13T06:12:56.461Z",
   "problems": [
+    {
+      "frontendId": "95",
+      "title": "Unique Binary Search Trees II",
+      "slug": "unique-binary-search-trees-ii",
+      "problemName": "0095-unique-binary-search-trees-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees-ii/",
+      "folderPath": "0095-unique-binary-search-trees-ii/",
+      "readmePath": "0095-unique-binary-search-trees-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0095-unique-binary-search-trees-ii.cpp",
+          "path": "0095-unique-binary-search-trees-ii/0095-unique-binary-search-trees-ii.cpp",
+          "sha": "b7b3d33f8aa26768248dd131e558ce64d01041c4",
+          "lastSyncedAt": "2026-10-13T06:12:56.461Z"
+        }
+      ]
+    },
     {
       "frontendId": "96",
       "title": "Unique Binary Search Trees",
