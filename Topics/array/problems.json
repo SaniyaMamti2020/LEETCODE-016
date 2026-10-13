@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:27:06.105Z",
+  "updatedAt": "2026-10-13T06:27:11.839Z",
   "problems": [
     {
       "frontendId": "4",
@@ -303,7 +303,7 @@
           "filename": "0174-dungeon-game.cpp",
           "path": "0174-dungeon-game/0174-dungeon-game.cpp",
           "sha": "6de0d430a5ab0e2f447c131910b13100609e376a",
-          "lastSyncedAt": "2026-10-13T06:09:58.275Z"
+          "lastSyncedAt": "2026-10-13T06:27:11.839Z"
         }
       ]
     },
