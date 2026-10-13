@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:53:44.901Z",
+  "updatedAt": "2026-10-13T05:55:16.244Z",
   "problems": [
     {
       "frontendId": "108",
@@ -104,6 +104,26 @@
           "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
           "sha": "289ccabf48296e76761d9afd638fff3fd86817ec",
           "lastSyncedAt": "2026-10-13T05:53:21.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0746-min-cost-climbing-stairs.py",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
+          "sha": "dc166d3118e4b64092bf9cd08ec3b368942eedbc",
+          "lastSyncedAt": "2026-10-13T05:55:16.244Z"
         }
       ]
     },
