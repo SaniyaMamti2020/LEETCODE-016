@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:57:45.860Z",
+  "updatedAt": "2026-10-13T05:57:54.047Z",
   "problems": [
     {
       "frontendId": "14",
@@ -144,6 +144,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
           "lastSyncedAt": "2026-10-13T05:53:58.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0657-robot-return-to-origin.cpp",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.cpp",
+          "sha": "d2d4f5f386b1260d6c9fed9f0dabfc677a864de9",
+          "lastSyncedAt": "2026-10-13T05:57:54.047Z"
         }
       ]
     },
