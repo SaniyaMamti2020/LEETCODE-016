@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:51:58.810Z",
+  "updatedAt": "2026-10-13T05:52:33.855Z",
   "problems": [
     {
       "frontendId": "976",
@@ -24,6 +24,26 @@
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "1a811c96cf625f4948b0425eadb973a120d131ba",
           "lastSyncedAt": "2026-10-13T05:51:58.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "problemName": "1323-maximum-69-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-69-number/",
+      "folderPath": "1323-maximum-69-number/",
+      "readmePath": "1323-maximum-69-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1323-maximum-69-number.py",
+          "path": "1323-maximum-69-number/1323-maximum-69-number.py",
+          "sha": "24385971d26cf7617cb5cb5759570bcf9d66725f",
+          "lastSyncedAt": "2026-10-13T05:52:33.855Z"
         }
       ]
     }
