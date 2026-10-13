@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dp-on-trees",
+    "name": "DP on Trees",
+    "tagId": "71152"
+  },
+  "updatedAt": "2026-10-13T06:01:38.002Z",
+  "problems": [
+    {
+      "frontendId": "337",
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "problemName": "0337-house-robber-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+      "folderPath": "0337-house-robber-iii/",
+      "readmePath": "0337-house-robber-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0337-house-robber-iii.cpp",
+          "path": "0337-house-robber-iii/0337-house-robber-iii.cpp",
+          "sha": "e5c6511e62c2d3eae8df80a0791e4ae706ccc485",
+          "lastSyncedAt": "2026-10-13T06:01:38.002Z"
+        }
+      ]
+    }
+  ]
+}
