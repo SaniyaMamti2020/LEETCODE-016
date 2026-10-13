@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:50:41.396Z",
+  "updatedAt": "2026-10-13T05:54:10.091Z",
   "problems": [
     {
       "frontendId": "190",
@@ -44,6 +44,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "af651c158ecc463913dc01c5f19e9a9bd6a9f048",
           "lastSyncedAt": "2026-10-13T05:50:09.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "problemName": "3954-sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+      "folderPath": "3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
+          "path": "3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
+          "sha": "722764def648ad27829669aa4f375484e857c648",
+          "lastSyncedAt": "2026-10-13T05:54:10.091Z"
         }
       ]
     }
