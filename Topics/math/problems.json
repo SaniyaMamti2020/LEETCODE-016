@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:00:35.307Z",
+  "updatedAt": "2026-10-13T06:01:04.622Z",
   "problems": [
     {
       "frontendId": "70",
@@ -44,6 +44,26 @@
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "aea3abbb0274ba5b04e8cba9e06506605c948df6",
           "lastSyncedAt": "2026-10-13T05:57:35.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "problemName": "0368-largest-divisible-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+      "folderPath": "0368-largest-divisible-subset/",
+      "readmePath": "0368-largest-divisible-subset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0368-largest-divisible-subset.cpp",
+          "path": "0368-largest-divisible-subset/0368-largest-divisible-subset.cpp",
+          "sha": "7337c0eb8abc90f022092879ad1f497c0904e083",
+          "lastSyncedAt": "2026-10-13T06:01:04.622Z"
         }
       ]
     },
