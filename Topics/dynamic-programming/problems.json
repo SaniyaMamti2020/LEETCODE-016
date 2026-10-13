@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:12:56.461Z",
+  "updatedAt": "2026-10-13T06:13:11.001Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "25a87d4f3d214492bd95ca06641de343dd9b2657",
           "lastSyncedAt": "2026-10-13T05:56:12.877Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "0091-decode-ways/",
+      "readmePath": "0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0091-decode-ways.cpp",
+          "path": "0091-decode-ways/0091-decode-ways.cpp",
+          "sha": "11d06b983331d8d842878b8ffebcb0976072e5b8",
+          "lastSyncedAt": "2026-10-13T06:13:11.001Z"
         }
       ]
     },
