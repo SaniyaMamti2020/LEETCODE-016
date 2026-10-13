@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T06:08:36.557Z",
+  "updatedAt": "2026-10-13T06:12:41.300Z",
   "problems": [
     {
       "frontendId": "70",
@@ -24,6 +24,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "25a87d4f3d214492bd95ca06641de343dd9b2657",
           "lastSyncedAt": "2026-10-13T05:56:12.877Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "96",
+      "title": "Unique Binary Search Trees",
+      "slug": "unique-binary-search-trees",
+      "problemName": "0096-unique-binary-search-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-binary-search-trees/",
+      "folderPath": "0096-unique-binary-search-trees/",
+      "readmePath": "0096-unique-binary-search-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0096-unique-binary-search-trees.cpp",
+          "path": "0096-unique-binary-search-trees/0096-unique-binary-search-trees.cpp",
+          "sha": "31537d0e473a9453db1596bc680e14126fe07bf0",
+          "lastSyncedAt": "2026-10-13T06:12:41.300Z"
         }
       ]
     },
