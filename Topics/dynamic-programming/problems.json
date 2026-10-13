@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T05:54:55.872Z",
+  "updatedAt": "2026-10-13T05:55:16.244Z",
   "problems": [
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0746-min-cost-climbing-stairs.py",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
+          "sha": "dc166d3118e4b64092bf9cd08ec3b368942eedbc",
+          "lastSyncedAt": "2026-10-13T05:55:16.244Z"
+        }
+      ]
+    },
     {
       "frontendId": "1025",
       "title": "Divisor Game",
