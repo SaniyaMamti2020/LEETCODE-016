@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:03:56.871Z",
+  "updatedAt": "2026-10-13T06:06:34.357Z",
   "problems": [
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "0316-remove-duplicate-letters/",
+      "readmePath": "0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0316-remove-duplicate-letters.cpp",
+          "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.cpp",
+          "sha": "5c5c77cc71884bb287df29f85d8b842a30c2fc07",
+          "lastSyncedAt": "2026-10-13T06:06:34.357Z"
+        }
+      ]
+    },
     {
       "frontendId": "321",
       "title": "Create Maximum Number",
