@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:21:08.118Z",
+  "updatedAt": "2026-10-13T06:21:16.269Z",
   "problems": [
     {
       "frontendId": "5",
@@ -943,7 +943,7 @@
           "filename": "0413-arithmetic-slices.cpp",
           "path": "0413-arithmetic-slices/0413-arithmetic-slices.cpp",
           "sha": "789219db3f2383e73675b8ef70700a0a414e3926",
-          "lastSyncedAt": "2026-10-13T05:59:52.726Z"
+          "lastSyncedAt": "2026-10-13T06:21:16.269Z"
         }
       ]
     },
