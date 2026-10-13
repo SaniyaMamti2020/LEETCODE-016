@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:25:30.008Z",
+  "updatedAt": "2026-10-13T06:26:20.939Z",
   "problems": [
     {
       "frontendId": "4",
@@ -443,7 +443,7 @@
           "filename": "0221-maximal-square.cpp",
           "path": "0221-maximal-square/0221-maximal-square.cpp",
           "sha": "79a479dfa14c009bb85dcdbe692e9c8d8c8ec978",
-          "lastSyncedAt": "2026-10-13T06:08:45.990Z"
+          "lastSyncedAt": "2026-10-13T06:26:20.939Z"
         }
       ]
     },
