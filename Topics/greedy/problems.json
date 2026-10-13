@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:00:04.814Z",
+  "updatedAt": "2026-10-13T06:00:22.740Z",
   "problems": [
+    {
+      "frontendId": "397",
+      "title": "Integer Replacement",
+      "slug": "integer-replacement",
+      "problemName": "0397-integer-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-replacement/",
+      "folderPath": "0397-integer-replacement/",
+      "readmePath": "0397-integer-replacement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0397-integer-replacement.cpp",
+          "path": "0397-integer-replacement/0397-integer-replacement.cpp",
+          "sha": "7c89ae9ebea0f2261e0494d1d33adc641cd4fff7",
+          "lastSyncedAt": "2026-10-13T06:00:22.740Z"
+        }
+      ]
+    },
     {
       "frontendId": "402",
       "title": "Remove K Digits",
