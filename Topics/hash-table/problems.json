@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:50:54.716Z",
+  "updatedAt": "2026-10-13T05:53:58.107Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "39e5b29c82d41b549511859429610b1329363ca9",
           "lastSyncedAt": "2026-10-13T05:50:54.716Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "0409-longest-palindrome/",
+      "readmePath": "0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0409-longest-palindrome.py",
+          "path": "0409-longest-palindrome/0409-longest-palindrome.py",
+          "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
+          "lastSyncedAt": "2026-10-13T05:53:58.107Z"
         }
       ]
     },
