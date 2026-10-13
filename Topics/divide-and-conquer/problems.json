@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T06:15:02.965Z",
+  "updatedAt": "2026-10-13T06:15:19.575Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,7 +43,7 @@
           "filename": "0108-convert-sorted-array-to-binary-search-tree.py",
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
           "sha": "aa896edaa4b6fb9aabb2822138f70680f4425dd1",
-          "lastSyncedAt": "2026-10-13T05:51:21.016Z"
+          "lastSyncedAt": "2026-10-13T06:15:19.575Z"
         }
       ]
     },
