@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "brute-force-search",
+    "name": "Brute-Force Search",
+    "tagId": "88159"
+  },
+  "updatedAt": "2026-10-13T06:10:37.507Z",
+  "problems": [
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0139-word-break.cpp",
+          "path": "0139-word-break/0139-word-break.cpp",
+          "sha": "2f6fd7ccef96731c452833f7d446ddaaa0194810",
+          "lastSyncedAt": "2026-10-13T06:10:37.507Z"
+        }
+      ]
+    }
+  ]
+}
