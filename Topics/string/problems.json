@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T06:06:34.357Z",
+  "updatedAt": "2026-10-13T06:08:18.520Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "e133e2f7a9a40475780174d0974418501c514cc8",
           "lastSyncedAt": "2026-10-13T05:57:45.860Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "241",
+      "title": "Different Ways to Add Parentheses",
+      "slug": "different-ways-to-add-parentheses",
+      "problemName": "0241-different-ways-to-add-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+      "folderPath": "0241-different-ways-to-add-parentheses/",
+      "readmePath": "0241-different-ways-to-add-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0241-different-ways-to-add-parentheses.cpp",
+          "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.cpp",
+          "sha": "1d3d73e2ab57df6a55320598ec9df81853988906",
+          "lastSyncedAt": "2026-10-13T06:08:18.520Z"
         }
       ]
     },
