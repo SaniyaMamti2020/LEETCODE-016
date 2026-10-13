@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "game-theory",
+    "name": "Game Theory",
+    "tagId": "61073"
+  },
+  "updatedAt": "2026-10-13T05:54:55.872Z",
+  "problems": [
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1025-divisor-game.py",
+          "path": "1025-divisor-game/1025-divisor-game.py",
+          "sha": "a60b765de7ba3033cd8e77883fb723e9cda3fe5b",
+          "lastSyncedAt": "2026-10-13T05:54:55.872Z"
+        }
+      ]
+    }
+  ]
+}
