@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:58:52.227Z",
+  "updatedAt": "2026-10-13T05:59:06.542Z",
   "problems": [
     {
       "frontendId": "4",
@@ -304,6 +304,26 @@
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "1a811c96cf625f4948b0425eadb973a120d131ba",
           "lastSyncedAt": "2026-10-13T05:51:58.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1470-shuffle-the-array.cpp",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
+          "sha": "e3bd05becc1e0762dac4a94eecbbfec3cc2035e0",
+          "lastSyncedAt": "2026-10-13T05:59:06.542Z"
         }
       ]
     },
