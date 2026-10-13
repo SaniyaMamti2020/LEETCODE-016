@@ -5,8 +5,28 @@
     "name": "DP on Trees",
     "tagId": "71152"
   },
-  "updatedAt": "2026-10-13T06:01:38.002Z",
+  "updatedAt": "2026-10-13T06:11:41.511Z",
   "problems": [
+    {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "problemName": "0124-binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "folderPath": "0124-binary-tree-maximum-path-sum/",
+      "readmePath": "0124-binary-tree-maximum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0124-binary-tree-maximum-path-sum.cpp",
+          "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.cpp",
+          "sha": "2118f1002376e42aef5144e4dd9e73aa9620fbdd",
+          "lastSyncedAt": "2026-10-13T06:11:41.511Z"
+        }
+      ]
+    },
     {
       "frontendId": "337",
       "title": "House Robber III",
