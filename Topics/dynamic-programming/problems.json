@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:10:09.148Z",
+  "updatedAt": "2026-10-13T06:10:18.151Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "140",
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "problemName": "0140-word-break-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break-ii/",
+      "folderPath": "0140-word-break-ii/",
+      "readmePath": "0140-word-break-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0140-word-break-ii.cpp",
+          "path": "0140-word-break-ii/0140-word-break-ii.cpp",
+          "sha": "948373bc8f67c7fe62beb24b73958665435ca05f",
+          "lastSyncedAt": "2026-10-13T06:10:18.151Z"
         }
       ]
     },
