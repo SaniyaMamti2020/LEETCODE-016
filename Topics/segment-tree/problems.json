@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-13T06:24:57.310Z",
+  "updatedAt": "2026-10-13T06:26:30.527Z",
   "problems": [
     {
       "frontendId": "218",
@@ -23,7 +23,7 @@
           "filename": "0218-the-skyline-problem.cpp",
           "path": "0218-the-skyline-problem/0218-the-skyline-problem.cpp",
           "sha": "82073b570d3e14d2abb9d4dd24e1e68dd9de5221",
-          "lastSyncedAt": "2026-10-13T06:08:56.593Z"
+          "lastSyncedAt": "2026-10-13T06:26:30.527Z"
         }
       ]
     },
