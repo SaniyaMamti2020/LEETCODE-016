@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:50:09.583Z",
+  "updatedAt": "2026-10-13T05:50:54.716Z",
   "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "0169-majority-element/0169-majority-element.cpp",
+          "sha": "39e5b29c82d41b549511859429610b1329363ca9",
+          "lastSyncedAt": "2026-10-13T05:50:54.716Z"
+        }
+      ]
+    },
     {
       "frontendId": "1763",
       "title": "Longest Nice Substring",
