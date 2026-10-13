@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:03:56.871Z",
+  "updatedAt": "2026-10-13T06:04:10.475Z",
   "problems": [
     {
       "frontendId": "4",
@@ -184,6 +184,26 @@
           "path": "0322-coin-change/0322-coin-change.cpp",
           "sha": "226340f9317d6fc425f459ba9a8721c5ab194b8d",
           "lastSyncedAt": "2026-10-13T06:02:12.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "329",
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "problemName": "0329-longest-increasing-path-in-a-matrix",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+      "folderPath": "0329-longest-increasing-path-in-a-matrix/",
+      "readmePath": "0329-longest-increasing-path-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0329-longest-increasing-path-in-a-matrix.cpp",
+          "path": "0329-longest-increasing-path-in-a-matrix/0329-longest-increasing-path-in-a-matrix.cpp",
+          "sha": "d051cd4a5739b87ae0e41d3253271e8345d02a94",
+          "lastSyncedAt": "2026-10-13T06:04:10.475Z"
         }
       ]
     },
