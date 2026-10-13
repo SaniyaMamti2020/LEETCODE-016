@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:58:11.255Z",
+  "updatedAt": "2026-10-13T05:58:17.811Z",
   "problems": [
     {
       "frontendId": "14",
@@ -204,6 +204,26 @@
           "path": "0680-valid-palindrome-ii/0680-valid-palindrome-ii.py",
           "sha": "72b1c3566bf5522e425e872f294a4e69ea18a75f",
           "lastSyncedAt": "2026-10-13T05:53:12.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0709-to-lower-case.cpp",
+          "path": "0709-to-lower-case/0709-to-lower-case.cpp",
+          "sha": "994ff86d290c12561d5361ebd9545b40760899e2",
+          "lastSyncedAt": "2026-10-13T05:58:17.811Z"
         }
       ]
     },
