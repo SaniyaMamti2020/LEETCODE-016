@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-13T06:08:56.593Z",
+  "updatedAt": "2026-10-13T06:24:32.666Z",
   "problems": [
     {
       "frontendId": "218",
@@ -63,7 +63,7 @@
           "filename": "0327-count-of-range-sum.cpp",
           "path": "0327-count-of-range-sum/0327-count-of-range-sum.cpp",
           "sha": "96bfed321ee0b422e8bff4f6914cf50e93cc7615",
-          "lastSyncedAt": "2026-10-13T06:04:40.689Z"
+          "lastSyncedAt": "2026-10-13T06:24:32.666Z"
         }
       ]
     }
