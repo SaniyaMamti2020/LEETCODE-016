@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:03:09.657Z",
+  "updatedAt": "2026-10-13T06:03:25.126Z",
   "problems": [
     {
       "frontendId": "5",
@@ -304,6 +304,26 @@
           "path": "0397-integer-replacement/0397-integer-replacement.cpp",
           "sha": "7c89ae9ebea0f2261e0494d1d33adc641cd4fff7",
           "lastSyncedAt": "2026-10-13T06:00:22.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "403",
+      "title": "Frog Jump",
+      "slug": "frog-jump",
+      "problemName": "0403-frog-jump",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+      "folderPath": "0403-frog-jump/",
+      "readmePath": "0403-frog-jump/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0403-frog-jump.cpp",
+          "path": "0403-frog-jump/0403-frog-jump.cpp",
+          "sha": "e880c625254fbabbe165a2e2dd7b5ea5399fded6",
+          "lastSyncedAt": "2026-10-13T06:03:25.126Z"
         }
       ]
     },
