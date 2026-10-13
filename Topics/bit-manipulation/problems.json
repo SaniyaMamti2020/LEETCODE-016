@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:55:48.451Z",
+  "updatedAt": "2026-10-13T06:00:22.740Z",
   "problems": [
     {
       "frontendId": "190",
@@ -44,6 +44,26 @@
           "path": "0338-counting-bits/0338-counting-bits.py",
           "sha": "e2fab6c318c85aeb996ab9ae60ca7ecf905ef4db",
           "lastSyncedAt": "2026-10-13T05:55:48.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "397",
+      "title": "Integer Replacement",
+      "slug": "integer-replacement",
+      "problemName": "0397-integer-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-replacement/",
+      "folderPath": "0397-integer-replacement/",
+      "readmePath": "0397-integer-replacement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0397-integer-replacement.cpp",
+          "path": "0397-integer-replacement/0397-integer-replacement.cpp",
+          "sha": "7c89ae9ebea0f2261e0494d1d33adc641cd4fff7",
+          "lastSyncedAt": "2026-10-13T06:00:22.740Z"
         }
       ]
     },
