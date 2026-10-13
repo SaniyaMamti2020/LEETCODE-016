@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T06:03:34.736Z",
+  "updatedAt": "2026-10-13T06:08:56.593Z",
   "problems": [
     {
       "frontendId": "148",
@@ -44,6 +44,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "39e5b29c82d41b549511859429610b1329363ca9",
           "lastSyncedAt": "2026-10-13T05:50:54.716Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "218",
+      "title": "The Skyline Problem",
+      "slug": "the-skyline-problem",
+      "problemName": "0218-the-skyline-problem",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/the-skyline-problem/",
+      "folderPath": "0218-the-skyline-problem/",
+      "readmePath": "0218-the-skyline-problem/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0218-the-skyline-problem.cpp",
+          "path": "0218-the-skyline-problem/0218-the-skyline-problem.cpp",
+          "sha": "82073b570d3e14d2abb9d4dd24e1e68dd9de5221",
+          "lastSyncedAt": "2026-10-13T06:08:56.593Z"
         }
       ]
     },
