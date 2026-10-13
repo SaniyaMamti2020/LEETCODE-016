@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:01:38.002Z",
+  "updatedAt": "2026-10-13T06:02:12.251Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0322-coin-change.cpp",
+          "path": "0322-coin-change/0322-coin-change.cpp",
+          "sha": "226340f9317d6fc425f459ba9a8721c5ab194b8d",
+          "lastSyncedAt": "2026-10-13T06:02:12.251Z"
         }
       ]
     },
