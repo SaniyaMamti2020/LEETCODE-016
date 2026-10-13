@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:11:11.083Z",
+  "updatedAt": "2026-10-13T06:12:05.267Z",
   "problems": [
+    {
+      "frontendId": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "problemName": "0122-best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+      "folderPath": "0122-best-time-to-buy-and-sell-stock-ii/",
+      "readmePath": "0122-best-time-to-buy-and-sell-stock-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0122-best-time-to-buy-and-sell-stock-ii.cpp",
+          "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.cpp",
+          "sha": "82853d7f1656a6fa0868f0360475cac538f7bde8",
+          "lastSyncedAt": "2026-10-13T06:12:05.267Z"
+        }
+      ]
+    },
     {
       "frontendId": "134",
       "title": "Gas Station",
