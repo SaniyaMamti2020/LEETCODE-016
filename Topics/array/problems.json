@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:03:09.657Z",
+  "updatedAt": "2026-10-13T06:03:25.126Z",
   "problems": [
     {
       "frontendId": "4",
@@ -284,6 +284,26 @@
           "path": "0396-rotate-function/0396-rotate-function.cpp",
           "sha": "ff432c792604735c520722b310059ab38387e57d",
           "lastSyncedAt": "2026-10-13T06:00:35.307Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "403",
+      "title": "Frog Jump",
+      "slug": "frog-jump",
+      "problemName": "0403-frog-jump",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/frog-jump/",
+      "folderPath": "0403-frog-jump/",
+      "readmePath": "0403-frog-jump/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0403-frog-jump.cpp",
+          "path": "0403-frog-jump/0403-frog-jump.cpp",
+          "sha": "e880c625254fbabbe165a2e2dd7b5ea5399fded6",
+          "lastSyncedAt": "2026-10-13T06:03:25.126Z"
         }
       ]
     },
