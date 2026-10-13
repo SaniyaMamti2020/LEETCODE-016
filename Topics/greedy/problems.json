@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T06:02:56.853Z",
+  "updatedAt": "2026-10-13T06:03:09.657Z",
   "problems": [
     {
       "frontendId": "334",
@@ -104,6 +104,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
           "lastSyncedAt": "2026-10-13T05:53:58.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "0410-split-array-largest-sum/",
+      "readmePath": "0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0410-split-array-largest-sum.cpp",
+          "path": "0410-split-array-largest-sum/0410-split-array-largest-sum.cpp",
+          "sha": "126e243e64c6913fd87ef37d8cb7720828aa40e8",
+          "lastSyncedAt": "2026-10-13T06:03:09.657Z"
         }
       ]
     },
