@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T06:06:34.357Z",
+  "updatedAt": "2026-10-13T06:21:22.955Z",
   "problems": [
     {
       "frontendId": "316",
@@ -63,7 +63,7 @@
           "filename": "0402-remove-k-digits.cpp",
           "path": "0402-remove-k-digits/0402-remove-k-digits.cpp",
           "sha": "af2eac6ae24f243366780afb12333e7d757225a9",
-          "lastSyncedAt": "2026-10-13T06:00:04.814Z"
+          "lastSyncedAt": "2026-10-13T06:21:22.955Z"
         }
       ]
     }
