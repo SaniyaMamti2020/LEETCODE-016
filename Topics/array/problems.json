@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:27:38.356Z",
+  "updatedAt": "2026-10-13T06:27:52.516Z",
   "problems": [
     {
       "frontendId": "4",
@@ -203,7 +203,7 @@
           "filename": "0135-candy.cpp",
           "path": "0135-candy/0135-candy.cpp",
           "sha": "9757d11dbb097878543e42858022a90660e031c4",
-          "lastSyncedAt": "2026-10-13T06:11:01.465Z"
+          "lastSyncedAt": "2026-10-13T06:27:52.516Z"
         }
       ]
     },
