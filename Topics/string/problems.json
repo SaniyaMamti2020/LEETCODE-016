@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:53:58.107Z",
+  "updatedAt": "2026-10-13T05:54:44.652Z",
   "problems": [
     {
       "frontendId": "409",
@@ -84,6 +84,26 @@
           "path": "1221-split-a-string-in-balanced-strings/1221-split-a-string-in-balanced-strings.py",
           "sha": "0f22118403ceabce2073013ba2eccc27f341ba2f",
           "lastSyncedAt": "2026-10-13T05:52:42.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1668",
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "problemName": "1668-maximum-repeating-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+      "folderPath": "1668-maximum-repeating-substring/",
+      "readmePath": "1668-maximum-repeating-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1668-maximum-repeating-substring.py",
+          "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.py",
+          "sha": "d82584f604db985631266de35716715d17657a67",
+          "lastSyncedAt": "2026-10-13T05:54:44.652Z"
         }
       ]
     },
