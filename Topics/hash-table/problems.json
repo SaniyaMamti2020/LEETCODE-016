@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:58:52.227Z",
+  "updatedAt": "2026-10-13T06:08:05.748Z",
   "problems": [
     {
       "frontendId": "169",
@@ -44,6 +44,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "47430bead1f5c8a48168a8a44739897ee667579a",
           "lastSyncedAt": "2026-10-13T05:56:37.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "264",
+      "title": "Ugly Number II",
+      "slug": "ugly-number-ii",
+      "problemName": "0264-ugly-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number-ii/",
+      "folderPath": "0264-ugly-number-ii/",
+      "readmePath": "0264-ugly-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0264-ugly-number-ii.cpp",
+          "path": "0264-ugly-number-ii/0264-ugly-number-ii.cpp",
+          "sha": "6149f347f852fe1181e11cc8d54b1c8d56783651",
+          "lastSyncedAt": "2026-10-13T06:08:05.748Z"
         }
       ]
     },
