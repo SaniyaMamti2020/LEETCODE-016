@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:59:35.534Z",
+  "updatedAt": "2026-10-13T05:59:52.726Z",
   "problems": [
     {
       "frontendId": "4",
@@ -164,6 +164,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "41e90dbea0bd909f792a1008d111fa881a77912e",
           "lastSyncedAt": "2026-10-13T05:58:52.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "413",
+      "title": "Arithmetic Slices",
+      "slug": "arithmetic-slices",
+      "problemName": "0413-arithmetic-slices",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/arithmetic-slices/",
+      "folderPath": "0413-arithmetic-slices/",
+      "readmePath": "0413-arithmetic-slices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0413-arithmetic-slices.cpp",
+          "path": "0413-arithmetic-slices/0413-arithmetic-slices.cpp",
+          "sha": "789219db3f2383e73675b8ef70700a0a414e3926",
+          "lastSyncedAt": "2026-10-13T05:59:52.726Z"
         }
       ]
     },
