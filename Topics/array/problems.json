@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:07:21.299Z",
+  "updatedAt": "2026-10-13T06:07:29.394Z",
   "problems": [
     {
       "frontendId": "4",
@@ -144,6 +144,26 @@
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "aea3abbb0274ba5b04e8cba9e06506605c948df6",
           "lastSyncedAt": "2026-10-13T05:57:35.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "309",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "problemName": "0309-best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "folderPath": "0309-best-time-to-buy-and-sell-stock-with-cooldown/",
+      "readmePath": "0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0309-best-time-to-buy-and-sell-stock-with-cooldown.cpp",
+          "path": "0309-best-time-to-buy-and-sell-stock-with-cooldown/0309-best-time-to-buy-and-sell-stock-with-cooldown.cpp",
+          "sha": "d2524bb86c7f79e57c869d6dbcc7d8c1aad03393",
+          "lastSyncedAt": "2026-10-13T06:07:29.394Z"
         }
       ]
     },
