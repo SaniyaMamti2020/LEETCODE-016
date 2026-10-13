@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:58:02.551Z",
+  "updatedAt": "2026-10-13T05:58:11.255Z",
   "problems": [
     {
       "frontendId": "14",
@@ -224,6 +224,26 @@
           "path": "0942-di-string-match/0942-di-string-match.py",
           "sha": "35a8dddef2945a90bbb6ab7c6372214f0123ad14",
           "lastSyncedAt": "2026-10-13T05:52:53.188Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "1108-defanging-an-ip-address/",
+      "readmePath": "1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1108-defanging-an-ip-address.cpp",
+          "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.cpp",
+          "sha": "642748440151a725df1ae7580d27c67a8588338d",
+          "lastSyncedAt": "2026-10-13T05:58:11.255Z"
         }
       ]
     },
