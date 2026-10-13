@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:22:51.945Z",
+  "updatedAt": "2026-10-13T06:23:00.449Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1003,7 +1003,7 @@
           "filename": "0446-arithmetic-slices-ii-subsequence.cpp",
           "path": "0446-arithmetic-slices-ii-subsequence/0446-arithmetic-slices-ii-subsequence.cpp",
           "sha": "df09240c742fa6f075f9271d02eeab27a74eb72f",
-          "lastSyncedAt": "2026-10-13T06:02:48.848Z"
+          "lastSyncedAt": "2026-10-13T06:23:00.449Z"
         }
       ]
     },
