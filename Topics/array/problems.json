@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:07:37.914Z",
+  "updatedAt": "2026-10-13T06:08:45.990Z",
   "problems": [
     {
       "frontendId": "4",
@@ -144,6 +144,26 @@
           "path": "0189-rotate-array/0189-rotate-array.cpp",
           "sha": "aea3abbb0274ba5b04e8cba9e06506605c948df6",
           "lastSyncedAt": "2026-10-13T05:57:35.826Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "221",
+      "title": "Maximal Square",
+      "slug": "maximal-square",
+      "problemName": "0221-maximal-square",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-square/",
+      "folderPath": "0221-maximal-square/",
+      "readmePath": "0221-maximal-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0221-maximal-square.cpp",
+          "path": "0221-maximal-square/0221-maximal-square.cpp",
+          "sha": "79a479dfa14c009bb85dcdbe692e9c8d8c8ec978",
+          "lastSyncedAt": "2026-10-13T06:08:45.990Z"
         }
       ]
     },
