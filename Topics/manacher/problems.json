@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "manacher",
+    "name": "Manacher",
+    "tagId": "80991"
+  },
+  "updatedAt": "2026-10-13T05:58:37.769Z",
+  "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0005-longest-palindromic-substring.cpp",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
+          "sha": "99c3c956cd9865defc4b5bccd93e8ce74aa6755e",
+          "lastSyncedAt": "2026-10-13T05:58:37.769Z"
+        }
+      ]
+    }
+  ]
+}
