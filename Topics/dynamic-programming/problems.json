@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:08:18.520Z",
+  "updatedAt": "2026-10-13T06:08:36.557Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "233",
+      "title": "Number of Digit One",
+      "slug": "number-of-digit-one",
+      "problemName": "0233-number-of-digit-one",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-digit-one/",
+      "folderPath": "0233-number-of-digit-one/",
+      "readmePath": "0233-number-of-digit-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0233-number-of-digit-one.cpp",
+          "path": "0233-number-of-digit-one/0233-number-of-digit-one.cpp",
+          "sha": "b8c7f7507c02e910657259a668b6e0db506bdb16",
+          "lastSyncedAt": "2026-10-13T06:08:36.557Z"
         }
       ]
     },
