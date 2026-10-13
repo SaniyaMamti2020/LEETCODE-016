@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:04:10.475Z",
+  "updatedAt": "2026-10-13T06:04:40.689Z",
   "problems": [
     {
       "frontendId": "4",
@@ -184,6 +184,26 @@
           "path": "0322-coin-change/0322-coin-change.cpp",
           "sha": "226340f9317d6fc425f459ba9a8721c5ab194b8d",
           "lastSyncedAt": "2026-10-13T06:02:12.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "327",
+      "title": "Count of Range Sum",
+      "slug": "count-of-range-sum",
+      "problemName": "0327-count-of-range-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-range-sum/",
+      "folderPath": "0327-count-of-range-sum/",
+      "readmePath": "0327-count-of-range-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0327-count-of-range-sum.cpp",
+          "path": "0327-count-of-range-sum/0327-count-of-range-sum.cpp",
+          "sha": "96bfed321ee0b422e8bff4f6914cf50e93cc7615",
+          "lastSyncedAt": "2026-10-13T06:04:40.689Z"
         }
       ]
     },
