@@ -5,7 +5,7 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-10-13T06:04:40.689Z",
+  "updatedAt": "2026-10-13T06:06:47.917Z",
   "problems": [
     {
       "frontendId": "148",
@@ -24,6 +24,26 @@
           "path": "0148-sort-list/0148-sort-list.py",
           "sha": "b11b184d4416c48518c5ae583ad586ef92116092",
           "lastSyncedAt": "2026-10-13T05:49:07.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "315",
+      "title": "Count of Smaller Numbers After Self",
+      "slug": "count-of-smaller-numbers-after-self",
+      "problemName": "0315-count-of-smaller-numbers-after-self",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+      "folderPath": "0315-count-of-smaller-numbers-after-self/",
+      "readmePath": "0315-count-of-smaller-numbers-after-self/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0315-count-of-smaller-numbers-after-self.cpp",
+          "path": "0315-count-of-smaller-numbers-after-self/0315-count-of-smaller-numbers-after-self.cpp",
+          "sha": "cc0bb83784ceaa9ceaec88fa07e812a5925cc75d",
+          "lastSyncedAt": "2026-10-13T06:06:47.917Z"
         }
       ]
     },
