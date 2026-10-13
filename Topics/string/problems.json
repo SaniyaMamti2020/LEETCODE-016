@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T06:00:04.814Z",
+  "updatedAt": "2026-10-13T06:02:56.853Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "a7f9388c3831ea75ed3e927a098df75959b649bc",
           "lastSyncedAt": "2026-10-13T05:53:58.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "420",
+      "title": "Strong Password Checker",
+      "slug": "strong-password-checker",
+      "problemName": "0420-strong-password-checker",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/strong-password-checker/",
+      "folderPath": "0420-strong-password-checker/",
+      "readmePath": "0420-strong-password-checker/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0420-strong-password-checker.cpp",
+          "path": "0420-strong-password-checker/0420-strong-password-checker.cpp",
+          "sha": "018f083ac11fef855d963e75eaeb3a37b7a1e681",
+          "lastSyncedAt": "2026-10-13T06:02:56.853Z"
         }
       ]
     },
