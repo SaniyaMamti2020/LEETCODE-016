@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:25:25.175Z",
+  "updatedAt": "2026-10-13T06:25:30.008Z",
   "problems": [
     {
       "frontendId": "5",
@@ -563,7 +563,7 @@
           "filename": "0300-longest-increasing-subsequence.cpp",
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
           "sha": "0b78c54761e598a95c26b84106fe7447cd58e85d",
-          "lastSyncedAt": "2026-10-13T06:07:37.914Z"
+          "lastSyncedAt": "2026-10-13T06:25:30.008Z"
         }
       ]
     },
