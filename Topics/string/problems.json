@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:57:54.047Z",
+  "updatedAt": "2026-10-13T05:58:02.551Z",
   "problems": [
     {
       "frontendId": "14",
@@ -104,6 +104,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "47430bead1f5c8a48168a8a44739897ee667579a",
           "lastSyncedAt": "2026-10-13T05:56:37.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0344-reverse-string.cpp",
+          "path": "0344-reverse-string/0344-reverse-string.cpp",
+          "sha": "cf3e2dae7829cd67ea28d74b3a03aae9aaface2b",
+          "lastSyncedAt": "2026-10-13T05:58:02.551Z"
         }
       ]
     },
