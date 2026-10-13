@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:10:37.507Z",
+  "updatedAt": "2026-10-13T06:11:01.465Z",
   "problems": [
     {
       "frontendId": "4",
@@ -104,6 +104,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "problemName": "0135-candy",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/candy/",
+      "folderPath": "0135-candy/",
+      "readmePath": "0135-candy/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0135-candy.cpp",
+          "path": "0135-candy/0135-candy.cpp",
+          "sha": "9757d11dbb097878543e42858022a90660e031c4",
+          "lastSyncedAt": "2026-10-13T06:11:01.465Z"
         }
       ]
     },
