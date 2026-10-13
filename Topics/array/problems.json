@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T06:25:12.710Z",
+  "updatedAt": "2026-10-13T06:25:20.036Z",
   "problems": [
     {
       "frontendId": "4",
@@ -503,7 +503,7 @@
           "filename": "0312-burst-balloons.cpp",
           "path": "0312-burst-balloons/0312-burst-balloons.cpp",
           "sha": "a050040a167058bc15a40c3e3369ea806b311ae9",
-          "lastSyncedAt": "2026-10-13T06:07:21.299Z"
+          "lastSyncedAt": "2026-10-13T06:25:20.036Z"
         }
       ]
     },
