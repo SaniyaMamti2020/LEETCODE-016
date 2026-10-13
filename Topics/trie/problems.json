@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-13T06:18:41.140Z",
+  "updatedAt": "2026-10-13T06:27:22.708Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,7 +63,7 @@
           "filename": "0140-word-break-ii.cpp",
           "path": "0140-word-break-ii/0140-word-break-ii.cpp",
           "sha": "948373bc8f67c7fe62beb24b73958665435ca05f",
-          "lastSyncedAt": "2026-10-13T06:10:18.151Z"
+          "lastSyncedAt": "2026-10-13T06:27:22.708Z"
         }
       ]
     }
