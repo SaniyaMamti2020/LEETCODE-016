@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T06:07:09.529Z",
+  "updatedAt": "2026-10-13T06:07:21.299Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "5558cfdda68334e36c83a4e3ffd2fe0d8657b09c",
           "lastSyncedAt": "2026-10-13T05:55:57.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "312",
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "problemName": "0312-burst-balloons",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+      "folderPath": "0312-burst-balloons/",
+      "readmePath": "0312-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0312-burst-balloons.cpp",
+          "path": "0312-burst-balloons/0312-burst-balloons.cpp",
+          "sha": "a050040a167058bc15a40c3e3369ea806b311ae9",
+          "lastSyncedAt": "2026-10-13T06:07:21.299Z"
         }
       ]
     },
