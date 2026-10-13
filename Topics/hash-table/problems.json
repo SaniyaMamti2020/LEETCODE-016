@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T06:25:50.349Z",
+  "updatedAt": "2026-10-13T06:27:22.708Z",
   "problems": [
     {
       "frontendId": "139",
@@ -43,7 +43,7 @@
           "filename": "0140-word-break-ii.cpp",
           "path": "0140-word-break-ii/0140-word-break-ii.cpp",
           "sha": "948373bc8f67c7fe62beb24b73958665435ca05f",
-          "lastSyncedAt": "2026-10-13T06:10:18.151Z"
+          "lastSyncedAt": "2026-10-13T06:27:22.708Z"
         }
       ]
     },
