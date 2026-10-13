@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:52:23.385Z",
+  "updatedAt": "2026-10-13T05:53:29.333Z",
   "problems": [
     {
       "frontendId": "148",
@@ -44,6 +44,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "39e5b29c82d41b549511859429610b1329363ca9",
           "lastSyncedAt": "2026-10-13T05:50:54.716Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "0561-array-partition/",
+      "readmePath": "0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0561-array-partition.py",
+          "path": "0561-array-partition/0561-array-partition.py",
+          "sha": "1d16b7155690407a7da534452729bfe56828a25e",
+          "lastSyncedAt": "2026-10-13T05:53:29.333Z"
         }
       ]
     },
