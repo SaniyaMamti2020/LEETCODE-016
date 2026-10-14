@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T09:47:33.162Z",
+  "updatedAt": "2026-10-14T09:47:41.470Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1123,7 +1123,7 @@
           "filename": "1668-maximum-repeating-substring.py",
           "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.py",
           "sha": "d82584f604db985631266de35716715d17657a67",
-          "lastSyncedAt": "2026-10-13T06:17:22.327Z"
+          "lastSyncedAt": "2026-10-14T09:47:41.470Z"
         }
       ]
     },
