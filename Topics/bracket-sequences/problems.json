@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T06:25:59.037Z",
+  "updatedAt": "2026-10-14T10:42:06.133Z",
   "problems": [
     {
       "frontendId": "241",
@@ -24,6 +24,26 @@
           "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.cpp",
           "sha": "1d3d73e2ab57df6a55320598ec9df81853988906",
           "lastSyncedAt": "2026-10-13T06:25:59.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
+          "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
+          "sha": "e9a70db9f629aec62ea9e7e76665fd7ae8db0f50",
+          "lastSyncedAt": "2026-10-14T10:42:06.133Z"
         }
       ]
     }
