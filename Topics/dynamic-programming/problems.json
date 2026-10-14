@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T09:47:51.435Z",
+  "updatedAt": "2026-10-14T09:48:08.683Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1063,7 +1063,7 @@
           "filename": "0746-min-cost-climbing-stairs.py",
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.py",
           "sha": "dc166d3118e4b64092bf9cd08ec3b368942eedbc",
-          "lastSyncedAt": "2026-10-13T06:17:41.768Z"
+          "lastSyncedAt": "2026-10-14T09:48:08.683Z"
         }
       ]
     },
