@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T09:48:52.954Z",
+  "updatedAt": "2026-10-14T09:50:43.766Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.cpp",
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "99c3c956cd9865defc4b5bccd93e8ce74aa6755e",
-          "lastSyncedAt": "2026-10-13T06:20:28.874Z"
+          "lastSyncedAt": "2026-10-14T09:50:43.766Z"
         }
       ]
     },
