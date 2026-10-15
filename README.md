@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 102 | 39 | 40 | 23 |
+| 103 | 40 | 40 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 9 |
+| 2 days | 2 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,16 +24,17 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 1 |
 | 2026-10-12 | 11 |
 | 2026-10-14 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 57 | 56% |
-| Array | 56 | 55% |
-| String | 31 | 30% |
+| Dynamic Programming | 57 | 55% |
+| Array | 56 | 54% |
+| String | 32 | 31% |
 | Greedy | 26 | 25% |
-| Math | 18 | 18% |
+| Math | 18 | 17% |
 | Sorting | 14 | 14% |
 | Two Pointers | 14 | 14% |
 | Divide and Conquer | 9 | 9% |
@@ -54,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
@@ -93,8 +94,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 14 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 31 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
