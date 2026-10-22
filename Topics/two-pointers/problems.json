@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-14T09:50:43.766Z",
+  "updatedAt": "2026-10-22T09:48:02.909Z",
   "problems": [
     {
       "frontendId": "5",
@@ -224,6 +224,26 @@
           "path": "0680-valid-palindrome-ii/0680-valid-palindrome-ii.py",
           "sha": "72b1c3566bf5522e425e872f294a4e69ea18a75f",
           "lastSyncedAt": "2026-10-14T09:46:38.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "8ff983364939424af7db6532f565ddc1500793cb",
+          "lastSyncedAt": "2026-10-22T09:48:02.909Z"
         }
       ]
     },
