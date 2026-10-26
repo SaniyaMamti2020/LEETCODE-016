@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 105 | 42 | 40 | 23 |
+| 106 | 43 | 40 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 11 |
+| 1 days | 2 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,6 +26,7 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-22 | 2 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
@@ -38,8 +39,8 @@ Contains topicwise list of solved problems.
 | Math | 18 | 17% |
 | Two Pointers | 16 | 15% |
 | Sorting | 14 | 13% |
-| Divide and Conquer | 9 | 9% |
-| Hash Table | 9 | 9% |
+| Divide and Conquer | 9 | 8% |
+| Hash Table | 9 | 8% |
 | Memoization | 8 | 8% |
 
 ## Topics
@@ -79,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Impartial Game](Topics/impartial-game/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 18 |
@@ -91,7 +92,7 @@ Contains topicwise list of solved problems.
 | [Polygons](Topics/polygons/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
