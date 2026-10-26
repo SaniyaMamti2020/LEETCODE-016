@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 106 | 43 | 40 | 23 |
+| 108 | 43 | 42 | 23 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 1 |
 | 2026-10-15 | 1 |
 | 2026-10-22 | 2 |
-| 2026-10-26 | 1 |
+| 2026-10-26 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 57 | 54% |
-| Array | 56 | 53% |
+| Dynamic Programming | 57 | 53% |
+| Array | 56 | 52% |
 | String | 32 | 30% |
-| Greedy | 26 | 25% |
+| Greedy | 26 | 24% |
 | Math | 18 | 17% |
-| Two Pointers | 16 | 15% |
+| Two Pointers | 17 | 16% |
 | Sorting | 14 | 13% |
 | Divide and Conquer | 9 | 8% |
 | Hash Table | 9 | 8% |
-| Memoization | 8 | 8% |
+| Memoization | 8 | 7% |
 
 ## Topics
 
@@ -80,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Impartial Game](Topics/impartial-game/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 18 |
@@ -105,6 +105,6 @@ Contains topicwise list of solved problems.
 | [Treap](Topics/treap/) | 2 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
