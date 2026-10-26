@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T10:23:06.309Z",
+  "updatedAt": "2026-10-26T10:36:10.057Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "99c3c956cd9865defc4b5bccd93e8ce74aa6755e",
           "lastSyncedAt": "2026-10-14T09:50:43.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0019-remove-nth-node-from-end-of-list.cpp",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
+          "sha": "4c220282511544ad0adba55dd20a454c933bfea5",
+          "lastSyncedAt": "2026-10-26T10:36:10.057Z"
         }
       ]
     },
