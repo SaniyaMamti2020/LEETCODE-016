@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-14T09:48:15.363Z",
+  "updatedAt": "2026-10-26T09:48:31.606Z",
   "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0206-reverse-linked-list.cpp",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
+          "sha": "8144bd8dd9a4f1d53861384a23ef251dca0609fd",
+          "lastSyncedAt": "2026-10-26T09:48:31.606Z"
+        }
+      ]
+    },
     {
       "frontendId": "233",
       "title": "Number of Digit One",
