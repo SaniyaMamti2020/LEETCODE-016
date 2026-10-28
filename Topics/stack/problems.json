@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-15T09:57:48.775Z",
+  "updatedAt": "2026-10-28T10:32:25.892Z",
   "problems": [
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "a7104984500d60a8db4f2e68e308cd5bafafb218",
+          "lastSyncedAt": "2026-10-28T10:32:25.892Z"
+        }
+      ]
+    },
     {
       "frontendId": "316",
       "title": "Remove Duplicate Letters",
