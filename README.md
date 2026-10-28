@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 110 | 45 | 42 | 23 |
+| 111 | 45 | 43 | 23 |
 
 ## Activity
 
@@ -27,22 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 1 |
 | 2026-10-22 | 2 |
 | 2026-10-26 | 3 |
-| 2026-10-28 | 2 |
+| 2026-10-28 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 57 | 52% |
-| Array | 56 | 51% |
+| Dynamic Programming | 57 | 51% |
+| Array | 56 | 50% |
 | String | 32 | 29% |
-| Greedy | 26 | 24% |
+| Greedy | 26 | 23% |
+| Two Pointers | 19 | 17% |
 | Math | 18 | 16% |
-| Two Pointers | 18 | 16% |
 | Sorting | 14 | 13% |
+| Hash Table | 10 | 9% |
 | Divide and Conquer | 9 | 8% |
-| Hash Table | 9 | 8% |
-| Linked List | 8 | 7% |
+| Linked List | 9 | 8% |
 
 ## Topics
 
@@ -72,16 +72,16 @@ Contains topicwise list of solved problems.
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 57 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 26 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Impartial Game](Topics/impartial-game/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 8 |
+| [Linked List](Topics/linked-list/) | 9 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 18 |
@@ -106,6 +106,6 @@ Contains topicwise list of solved problems.
 | [Treap](Topics/treap/) | 2 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 18 |
+| [Two Pointers](Topics/two-pointers/) | 19 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
