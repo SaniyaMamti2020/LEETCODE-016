@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-31T13:19:48.315Z",
+  "updatedAt": "2026-10-31T13:19:58.533Z",
   "problems": [
     {
       "frontendId": "190",
@@ -23,7 +23,7 @@
           "filename": "0190-reverse-bits.py",
           "path": "0190-reverse-bits/0190-reverse-bits.py",
           "sha": "287e4af2c46a63971b01c165461072611ec593ca",
-          "lastSyncedAt": "2026-10-14T09:45:01.260Z"
+          "lastSyncedAt": "2026-10-31T13:19:58.533Z"
         }
       ]
     },
