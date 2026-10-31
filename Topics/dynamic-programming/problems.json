@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T09:50:43.766Z",
+  "updatedAt": "2026-10-31T13:21:32.307Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1143,7 +1143,7 @@
           "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
           "path": "3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
           "sha": "722764def648ad27829669aa4f375484e857c648",
-          "lastSyncedAt": "2026-10-14T09:47:22.696Z"
+          "lastSyncedAt": "2026-10-31T13:21:32.307Z"
         }
       ]
     }
