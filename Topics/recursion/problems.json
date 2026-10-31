@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-31T13:18:54.073Z",
+  "updatedAt": "2026-10-31T13:19:03.222Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,7 +23,7 @@
           "filename": "0021-merge-two-sorted-lists.cpp",
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "14ff7942627bdca013734f0b7a9813cc67a8f39e",
-          "lastSyncedAt": "2026-10-28T10:00:35.039Z"
+          "lastSyncedAt": "2026-10-31T13:19:03.222Z"
         }
       ]
     },
