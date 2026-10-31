@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-14T09:47:51.435Z",
+  "updatedAt": "2026-10-31T13:21:52.845Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -23,7 +23,7 @@
           "filename": "1025-divisor-game.py",
           "path": "1025-divisor-game/1025-divisor-game.py",
           "sha": "a60b765de7ba3033cd8e77883fb723e9cda3fe5b",
-          "lastSyncedAt": "2026-10-14T09:47:51.435Z"
+          "lastSyncedAt": "2026-10-31T13:21:52.845Z"
         }
       ]
     }
