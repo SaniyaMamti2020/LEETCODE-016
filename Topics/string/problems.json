@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-31T13:21:45.572Z",
+  "updatedAt": "2026-10-31T13:22:16.261Z",
   "problems": [
     {
       "frontendId": "5",
@@ -363,7 +363,7 @@
           "filename": "0392-is-subsequence.py",
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "ed2b2f2bf6eeffd1770b06a0b6308fba4a9cfa5d",
-          "lastSyncedAt": "2026-10-14T09:48:26.958Z"
+          "lastSyncedAt": "2026-10-31T13:22:16.261Z"
         }
       ]
     },
