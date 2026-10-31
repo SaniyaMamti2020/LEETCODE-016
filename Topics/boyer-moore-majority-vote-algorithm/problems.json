@@ -5,7 +5,7 @@
     "name": "Boyer–Moore Majority Vote Algorithm",
     "tagId": "122032"
   },
-  "updatedAt": "2026-10-14T09:45:05.727Z",
+  "updatedAt": "2026-10-31T13:20:01.886Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,7 +23,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "39e5b29c82d41b549511859429610b1329363ca9",
-          "lastSyncedAt": "2026-10-14T09:45:05.727Z"
+          "lastSyncedAt": "2026-10-31T13:20:01.886Z"
         }
       ]
     }
