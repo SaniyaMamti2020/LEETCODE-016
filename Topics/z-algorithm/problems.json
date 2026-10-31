@@ -5,7 +5,7 @@
     "name": "Z Algorithm",
     "tagId": "86036"
   },
-  "updatedAt": "2026-10-14T09:49:35.909Z",
+  "updatedAt": "2026-10-31T13:22:57.637Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,7 +23,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "c60c72fd438e7c4909940ac015ffa56126b1d669",
-          "lastSyncedAt": "2026-10-14T09:49:35.909Z"
+          "lastSyncedAt": "2026-10-31T13:22:57.637Z"
         }
       ]
     }
