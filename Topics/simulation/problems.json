@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-31T13:23:08.983Z",
+  "updatedAt": "2026-10-31T13:23:25.975Z",
   "problems": [
     {
       "frontendId": "657",
@@ -23,7 +23,7 @@
           "filename": "0657-robot-return-to-origin.cpp",
           "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.cpp",
           "sha": "d2d4f5f386b1260d6c9fed9f0dabfc677a864de9",
-          "lastSyncedAt": "2026-10-14T09:50:17.741Z"
+          "lastSyncedAt": "2026-10-31T13:23:25.975Z"
         }
       ]
     },
