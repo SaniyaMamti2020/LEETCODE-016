@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 113 | 46 | 44 | 23 |
+| 114 | 47 | 44 | 23 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-26 | 3 |
 | 2026-10-28 | 3 |
 | 2026-10-29 | 1 |
-| 2026-11-19 | 1 |
+| 2026-11-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Dynamic Programming | 57 | 50% |
-| Array | 56 | 50% |
+| Array | 56 | 49% |
 | String | 32 | 28% |
 | Greedy | 26 | 23% |
-| Two Pointers | 21 | 19% |
+| Two Pointers | 21 | 18% |
 | Math | 18 | 16% |
 | Sorting | 14 | 12% |
+| Linked List | 12 | 11% |
 | Hash Table | 11 | 10% |
-| Linked List | 11 | 10% |
 | Divide and Conquer | 9 | 8% |
 
 ## Topics
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Impartial Game](Topics/impartial-game/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 18 |
